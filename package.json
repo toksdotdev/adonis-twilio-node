@@ -1,6 +1,6 @@
 {
   "name": "adonis-twilio-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Twilio provider for adonis framework",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TNkemdilim/adonis-twilio.git"
+    "url": "git+https://github.com/TNkemdilim/adonis-twilio-node.git"
   },
   "keywords": [
     "adonis",
@@ -22,9 +22,9 @@
   "author": "Tochukwu Nkemdilim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TNkemdilim/adonis-twilio/issues"
+    "url": "https://github.com/TNkemdilim/adonis-twilio-node/issues"
   },
-  "homepage": "https://github.com/TNkemdilim/adonis-twilio#readme",
+  "homepage": "https://github.com/TNkemdilim/adonis-twilio-node#readme",
   "dependencies": {
     "twilio": "^3.35.0"
   },
