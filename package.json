@@ -1,5 +1,5 @@
 {
-  "name": "adonis-twilio",
+  "name": "adonis-twilio-node",
   "version": "1.0.0",
   "description": "Twilio provider for adonis framework",
   "main": "index.js",
