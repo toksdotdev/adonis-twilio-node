@@ -1,0 +1,34 @@
+{
+  "name": "adonis-twilio",
+  "version": "1.0.0",
+  "description": "Twilio provider for adonis framework",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNkemdilim/adonis-twilio.git"
+  },
+  "keywords": [
+    "adonis",
+    "twilio",
+    "sms",
+    "voice",
+    "chat"
+  ],
+  "author": "Tochukwu Nkemdilim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TNkemdilim/adonis-twilio/issues"
+  },
+  "homepage": "https://github.com/TNkemdilim/adonis-twilio#readme",
+  "dependencies": {
+    "twilio": "^3.35.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
