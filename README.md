@@ -7,7 +7,7 @@
 Simply run:
 
 ```
-adonis install adonis-twilio
+adonis install adonis-twilio-node
 ```
 
 Add twilio provider to your AdonisJS application located at `start/app.js`:
@@ -15,7 +15,7 @@ Add twilio provider to your AdonisJS application located at `start/app.js`:
 ```
 const providers = [
     ...
-    'adonis-twilio/providers/Twilio'
+    'adonis-twilio/providers/TwilioProvider'
 ];
 ```
 
