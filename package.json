@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "standard": "^14.3.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
